@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "caribe",
+    "id": 1,
+    "duracion": "10 dias",
+    "precio": 1000
+  },
+    {
+    "nombre": "fiordos noruegos",
+    "id": 2,
+    "duracion": "14 dias",
+    "precio": 2000
+  },
+    {
+    "nombre": "mediterraneo",
+    "id": 3,
+    "duracion": "5 dias",
+    "precio": 800
+  },
+    {
+    "nombre": "islas griegas",
+    "id": 4,
+    "duracion": " 7 dias",
+    "precio": 1200
+  }
+  
+]
